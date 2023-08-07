@@ -17,8 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m a graduate student of BUCT.
 - 🌱 I’m currently learning Java to get a job.
 - 👯 I will also use some C/C++/Python programming, and have practical experience in the field of artificial intelligence related to NLP and RL.
-- 🤔 
-- 💬 
-- 📫 
-- 😄 
-- ⚡ 
+
